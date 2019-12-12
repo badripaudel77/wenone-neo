@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+
+<style>
+
+h3{
+	color:red;
+	font-weight:bold;
+}
+
+div{
+	
+  height:60px;
+  width:400px;
+  background-color: black;
+  color:red;
+}
+
+body{
+
+  background-color: lightblue;
+
+}
+
+</style>
