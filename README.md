@@ -20,4 +20,4 @@ Servlet as Controller classes which process the business logic.
 
 Model classes are fairly POJO which hold the raw data.
 
-(incase if you need sql file, send me an email me at badripaudel77@gmail.com )
+(incase if you need the sql file related to this project, send me an email at badripaudel77@gmail.com )
